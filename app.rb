@@ -8,4 +8,7 @@ end
 get '/hometown' do
   "My hometown is Port-au-Prince"
 end
+get '/favorite-song' do
+  "My favorite song is EL FARSANTE by Ozuna"
+end
 end
